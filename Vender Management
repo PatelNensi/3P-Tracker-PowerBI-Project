@@ -1,0 +1,51 @@
+Project Description: 3P Tracker Power BI Project
+Overview
+The 3P Tracker Power BI Project aims to provide a comprehensive analysis and visualization of the tracking data for various components managed by four third-party companies. The project will help stakeholders monitor the status of issues and pending tasks, ensuring efficient management and timely completion of projects.
+
+Objectives
+Data Integration: Consolidate data from multiple sources into a single Power BI report.
+Visualization: Create interactive visualizations to display the status of components, issues, and pending tasks.
+Monitoring: Enable real-time tracking of component statuses across different third-party companies.
+Reporting: Provide detailed reports and dashboards for stakeholders to make informed decisions.
+Key Features
+Data Import and Modeling:
+
+Import data from the provided Excel file.
+Create relationships between tables to ensure accurate data modeling.
+Visualizations:
+
+Donut Chart: Display the distribution of issues and pending tasks for a selected company.
+Bar Chart: Show the total issued, received, and pending tasks.
+Table: Provide detailed tracking information for each component.
+Dashboard:
+
+Arrange visualizations on a user-friendly dashboard.
+Add slicers to filter data by company, status, or date.
+Interactivity:
+
+Enable users to interact with the data through slicers and filters.
+Allow drill-down capabilities for detailed analysis.
+Reporting and Sharing:
+
+Publish the Power BI report to the Power BI service.
+Share the dashboard with stakeholders for collaborative decision-making.
+GitHub Repository Structure
+Repository Name: 3P-Tracker-PowerBI-Project
+Folders and Files:
+README.md: Overview of the project, setup instructions, and usage guidelines.
+Data: Folder to store the Excel file and any other data sources.
+PowerBI: Folder to store the Power BI Desktop file (.pbix).
+Scripts: Any scripts used for data processing or automation.
+Steps to Create the Project
+Prepare Your Data:
+
+Ensure the data is clean and structured.
+Import the data into Power BI.
+Create Visualizations:
+
+Use the Donut Chart to show the distribution of issues and pending tasks.
+Add other visualizations like bar charts and tables for comprehensive analysis.
+Build the Dashboard:
+
+Arrange the visualizations on a dashboard.
+Add slicers for interactivity.
